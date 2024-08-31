@@ -1,0 +1,8 @@
+build
+dist
+compression-tests.md
+MP4 compressor.spec
+Pipfile.lock
+bash.exe.stackdump
+.vscode/
+todo.md
